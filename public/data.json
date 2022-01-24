@@ -1,0 +1,101 @@
+[
+    {
+        "images": [
+            "laptop", 
+            "laptop", 
+            "laptop"
+        ],
+        "product_name": "Sony Master Series A9G",
+        "category": "Electronic",
+        "stock": "183",
+        "status": "active"    
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Apple MacBook Pro 13",
+        "category": "PC & Laptop",
+        "stock": "50",
+        "status": "inactive"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Nikon Z6",
+        "category": "Photography",
+        "stock": "92",
+        "status": "active"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Sony Master Series A9G",
+        "category": "Electronic",
+        "stock": "58",
+        "status": "active"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Sony Master Series A9G",
+        "category": "Electronic",
+        "stock": "183",
+        "status": "active"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Apple MacBook Pro 13",
+        "category": "PC & Laptop",
+        "stock": "50",
+        "status": "inactive"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Nikon Z6",
+        "category": "Photography",
+        "stock": "183",
+        "status": "active"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Sony Master Series A9G",
+        "category": "Electronic",
+        "stock": "58",
+        "status": "active"
+    },
+    {
+        "images": [
+            "laptop",
+            "laptop",
+            "laptop"
+        ],
+        "product_name": "Sony Master Series A9G",
+        "category": "Electronic",
+        "stock": "183",
+        "status": "active"
+    }
+]
